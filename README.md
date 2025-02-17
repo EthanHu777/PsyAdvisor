@@ -3,36 +3,28 @@
 
 ✨ **Welcome to PsyAdvisor's Experimental Release!** ✨  
 
-We're excited to share our progress in AI-powered psychological support tools. Below are key details about this release:
+We're excited to share our progress in psychological LLMs proactive empowerment plugins. Below are key details about this release:
 
 ---
 
 ## 🌟 Model Release: LoRA Fine-tuned Version
 - **Model Location**: `model/output/`  
 - **What's Included**:  
-  ✅ LoRA-adapted PsyAdvisor model weights  
+  ✅ LoRA-adapted PsyAdvisor plugin weights  
   ✅ Configuration files for inference  
   ⚠️ *Note: This is an experimental release. For clinical/therapeutic use, wait for future validated versions.*
 
 ---
 
-## 🎮 Example Usage: SoulChat 2.0 Integration
+## 🔧 Getting Started: SoulChat 2.0 Integration
 Check out the demo integration with [SoulChat 2.0]([https://github.com/...](https://github.com/scutcyr/SoulChat2.0)) via:
 ```bash
 python example.py
 
 What You'll See:
-💬 A live demo of PsyAdvisor-enhanced psychological dialogue
-🔄 Comparison with baseline LLM responses
-📊 Basic emotional support pattern visualization
-
-🔧 Getting Started
-1️⃣ Clone this repository
-2️⃣ Run the magic command:
-
-Python
-python example.py
-Watch how PsyAdvisor enhances mental health dialogues! 💬➡️💡
+💬 A demo of PsyAdvisor-enhanced psychological conversation
+🔄 Timing and strategy advice from PsyAdvisor itself
+📊 LLM conversations with proactive questioning skills
 
 📅 Upcoming Features (Stay Tuned! 🚀)
 Feature	Status	Emoji Preview
