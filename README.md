@@ -1,5 +1,5 @@
 # PsyAdvisor: A Plug-and-Play Strategy Advice Planner with Proactive Questioning in Psychological Conversations
-# 🧠 PsyAdvisor - LoRA Fine-tuned Model Release 🚀
+## 🔌 PsyAdvisor - LoRA Fine-tuned Model Release 🚀
 
 ✨ **Welcome to PsyAdvisor's Experimental Release!** ✨  
 
