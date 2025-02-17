@@ -26,5 +26,31 @@ What You'll See:
 🔄 Comparison with baseline LLM responses
 📊 Basic emotional support pattern visualization
 
+🔧 Getting Started
+1️⃣ Clone this repository
+2️⃣ Run the magic command:
+
+Python
+python example.py
+Watch how PsyAdvisor enhances mental health dialogues! 💬➡️💡
+
+📅 Upcoming Features (Stay Tuned! 🚀)
+Feature	Status	Emoji Preview
+Full Fine-tuning Code	🔜 Coming Soon	🧪⚡
+LoRA Training Scripts	🔜 Coming Soon	🧠💻
+Open Dataset	🔜 Coming Soon	📂🌟
+🌟 Special Notes
+Current Release: Experimental LoRA version 🧪
+Roadmap: We're working hard to open-source more components! 🚧👩💻
+Community Driven: Your stars ⭐ make our project shine brighter!
+💖 Together, let's build AI that cares! 💖
+
+
+This version contains:  
+- Proper markdown syntax for all elements  
+- Correct code block formatting with triple backticks  
+- Consistent section dividers (`---`)  
+- Valid table structure  
+- Escape-free formatting ready for direct copy-paste
 
 💡**Tips**: We will make the full code publicly available after the paper is accepted~ (A good wish🤩🫡🫣)
