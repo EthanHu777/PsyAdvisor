@@ -6,7 +6,7 @@ import opencc
 model_name = "Qwen2.5-3B-Instruct"
 model = AutoModelForCausalLM.from_pretrained(model_name)
 
-lora_model_path = "./output/lora_model"
+lora_model_path = "./output"
 lora_model = AutoModelForCausalLM.from_pretrained(lora_model_path)
 
 lora_config = LoraConfig.from_pretrained(lora_model_path)
@@ -54,11 +54,11 @@ def generate_response(input_text):
         attention_mask=attention_mask, 
         max_new_tokens=256, 
         num_beams=1,
-        top_p=0.2,
-        top_k=5,
+        top_p=0.75,
+        top_k=20,
         no_repeat_ngram_size=2,
         eos_token_id=eos_token,
-        temperature=0.7
+        temperature=0.5
     )
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
     start_index = response.find("[", response.find("[") + 1)
@@ -96,10 +96,10 @@ def chat_with_model():
             attention_mask=soulchat_attention_mask, 
             max_new_tokens=256, 
             num_beams=2,
-            top_p=0.9,
-            top_k=50,
+            top_p=0.75,
+            top_k=20,
             no_repeat_ngram_size=2,
-            temperature=0.9
+            temperature=0.5
         )
         
         soulchat_response = soulchat_tokenizer.decode(soulchat_outputs[0], skip_special_tokens=True)
