@@ -17,32 +17,26 @@ We're excited to share our progress in psychological LLMs proactive empowerment 
 ---
 
 ## 🔧 Getting Started: SoulChat 2.0 Integration
-Check out the demo integration with [SoulChat 2.0]([https://github.com/...](https://github.com/scutcyr/SoulChat2.0)) via:
+Check out the demo integration with [SoulChat 2.0]([https://github.com/scutcyr/SoulChat2.0]) via:
 ```bash
 python example.py
 ```
-What You'll See:
-💬 A demo of PsyAdvisor-enhanced psychological conversation
-🔄 Timing and strategy advice from PsyAdvisor itself
-📊 LLM conversations with proactive questioning skills
+### What You'll See:
+- 💬 A demo of PsyAdvisor-enhanced psychological conversation
+- 🔄 Timing and strategy advice from PsyAdvisor itself
+- 📊 LLM conversations with proactive questioning skills
 
 📅 Upcoming Features (Stay Tuned! 🚀)
-Feature	Status	Emoji Preview
-Full Fine-tuning Code	🔜 Coming Soon	🧪⚡
-LoRA Training Scripts	🔜 Coming Soon	🧠💻
-Open Dataset	🔜 Coming Soon	📂🌟
+| Feature              | Status            |
+|----------------------|-------------------|
+| Full Fine-tuning Code | 🔜 Coming Soon 🧪⚡|
+| Training Scripts     | 🔜 Coming Soon 🧠💻 |
+| Open Dataset         | 🔜 Coming Soon 📂🌟 |
+
 🌟 Special Notes
 Current Release: Experimental LoRA version 🧪
 Roadmap: We're working hard to open-source more components! 🚧👩💻
-Community Driven: Your stars ⭐ make our project shine brighter!
-💖 Together, let's build AI that cares! 💖
-
-
-This version contains:  
-- Proper markdown syntax for all elements  
-- Correct code block formatting with triple backticks  
-- Consistent section dividers (`---`)  
-- Valid table structure  
-- Escape-free formatting ready for direct copy-paste
+Community Driven: You are welcome to make valuable changes at any time！⭐ 
+💖 We'll do everything we can to make PsyAdvisor better! 💖
 
 💡**Tips**: We will make the full code publicly available after the paper is accepted~ (A good wish🤩🫡🫣)
