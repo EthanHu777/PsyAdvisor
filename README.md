@@ -20,7 +20,7 @@ We're excited to share our progress in psychological LLMs proactive empowerment 
 Check out the demo integration with [SoulChat 2.0]([https://github.com/...](https://github.com/scutcyr/SoulChat2.0)) via:
 ```bash
 python example.py
-
+```
 What You'll See:
 💬 A demo of PsyAdvisor-enhanced psychological conversation
 🔄 Timing and strategy advice from PsyAdvisor itself
