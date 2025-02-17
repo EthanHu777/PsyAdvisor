@@ -17,7 +17,7 @@ We're excited to share our progress in AI-powered psychological support tools. B
 ---
 
 ## 🎮 Example Usage: SoulChat 2.0 Integration
-Check out the demo integration with [SoulChat 2.0](https://github.com/...) via:
+Check out the demo integration with [SoulChat 2.0]([https://github.com/...](https://github.com/scutcyr/SoulChat2.0)) via:
 ```bash
 python example.py
 
