@@ -51,7 +51,7 @@ ProPsyC is a new dataset for psychological counseling research, constructed thro
 
 ## 🧪 Demo Example
 Explore ProPsyC sample in:  
-```json
+```bash
 ProPsyC_demo.json
 ```
 📧 *Contact authors for early access requests*
