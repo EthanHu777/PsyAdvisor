@@ -32,8 +32,8 @@ python example.py
 | Feature              | Status            |
 |----------------------|-------------------|
 | Full Fine-tuning Code | 🔜 Coming Soon 🧪⚡|
-| Training Scripts     | 🔜 Coming Soon 🧠💻 |
-| Open Dataset         | 🔜 Coming Soon 📂🌟 |
+| Training Scripts      | 🔜 Coming Soon 🧠💻 |
+| Open-Source Dataset   | 🔜 Upon Paper Publication 📂🌟 |
 
 🌟 **Special Notes**
 
