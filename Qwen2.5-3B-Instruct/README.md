@@ -1,4 +1,4 @@
-# ⚠️ Prerequisite: Download Qwen2.5-3B-Instruct 
+# ⚠️ Download Qwen2.5-3B-Instruct 
 
 **PsyAdvisor requires this backbone model** 🔧  
 ✨ *Choose your preferred download source* ✨
