@@ -16,7 +16,8 @@ ProPsyC is a new dataset for psychological counseling research, constructed thro
 - **New interpretation labels** for:  
   🔍 Strategy selection rationale · 🧩 Reaction attribution analysis
   
-❗Although the `XinLing` dataset is also a public dataset, it is necessary to obtain the consent of the original authors and sign the relevant use agreement before using the data.
+❗Although the `XinLing` dataset is also public, it is necessary to obtain the consent of the original authors and sign the relevant use agreement before using the data.
+> 📩 If you need access to **XinLing** dataset, please contact _[Anqi](https://github.com/dll-wu/Client-Reactions)_ (`lianqi@westlake.edu.cn`).
 ---
 
 ## 🚀 Key Features
