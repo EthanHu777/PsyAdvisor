@@ -27,7 +27,9 @@ These models excel in general-purpose tasks and can be adapted for psychological
 ## 🔓 Small-scale Open-source LLMs
 **Lightweight & efficient models** 🔍  
 These models are often used as backbone models for psychological LLMs, while many psychological LLMs are obtained by fine-tuning based on such open-source models. 
-You can also design prompts to make them play the role of a psychological counselor:
+To make them play the role of a psychological counselor, just use the same prompts as before!
+
+You can deploy them locally or call directly on [SiliconFlow](https://cloud.siliconflow.cn/models) for free:
 - **[GLM4-9B-Chat](https://huggingface.co/THUDM/glm-4-9b-chat)** 🦉 *9B parameter variant of GLM-4 by ZhiPu AI*  
 - **[Qwen2.5-7B-Instruct](https://huggingface.co/Qwen/Qwen2.5-7B-Instruct)** 🎯 *7B instruction-tuned model by Alibaba*  
 - **[Llama3.1-8B-Instruct](https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct)** 🦙 *Meta's 8B fine-tuned version*  
@@ -37,7 +39,7 @@ You can also design prompts to make them play the role of a psychological counse
 ## 🧠 Psychological LLMs
 **Specialized in psychological counseling** 💬  
 These are domain-specific models designed for mental health support and conversation.
-The following models have been fine-tuned from existing open-source models(<10B):
+The following models have been fine-tuned from existing open-source models(<10B), and provide more professional and empathetic psychological conversations:
 - **[PsyChat](https://github.com/qiuhuachuan/PsyChat)** 🌸 *Client behavior-driven strategy selection for context-aware counseling*  
 - **[MeChat](https://github.com/qiuhuachuan/smile)** 🤖 *Provide high-quality, empathy- and listening-oriented psychological conversations*  
 - **[SoulChat2.0](https://github.com/scutcyr/SoulChat2.0)** 🔄 *Personalized counselor via dynamic one-shot learning and synthetic multi-turn conversations*  
