@@ -33,10 +33,14 @@ python example.py
 | Training Scripts     | 🔜 Coming Soon 🧠💻 |
 | Open Dataset         | 🔜 Coming Soon 📂🌟 |
 
-🌟 Special Notes
+🌟 **Special Notes**
+
 Current Release: Experimental LoRA version 🧪
+
 Roadmap: We're working hard to open-source more components! 🚧👩💻
+
 Community Driven: You are welcome to make valuable changes at any time！⭐ 
+
 💖 We'll do everything we can to make PsyAdvisor better! 💖
 
 ### Friendly Links
