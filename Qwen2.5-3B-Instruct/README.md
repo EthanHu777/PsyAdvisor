@@ -1,4 +1,4 @@
-⚠️Please download **Qwen2.5-3B-Instruct** before using PsyAdvisor. 
+⚠️Please download **Qwen2.5-3B-Instruct** (backbone model) before using PsyAdvisor. 
 
 You can download the model in the following ways：
 
