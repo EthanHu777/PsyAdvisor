@@ -1,40 +1,41 @@
 # 🌱 ProPsyC Dataset 
 
-**A Unified Framework for Psychological Counseling Analysis**  
-✨ *Enhanced with explanatory labels for counselor strategies and client reactions*  
+**A dataset of conversations for proactive questioning in counseling**  
+✨ *Enhanced with interpretation labels for counselor strategies and client reactions*  
 
 ---
 
 ## 📜 Overview
-ProPsyC is a novel dataset for psychological counseling research, constructed through:
+ProPsyC is a new dataset for psychological counseling research, constructed through:
 - **Integration** of three existing datasets:  
-  `XinLing` · `CPsyCounD` · `Psy-Insight`
+  [XinLing](https://github.com/dll-wu/Client-Reactions);
+  [CPsyCounD](https://github.com/CAS-SIAT-XinHai/CPsyCoun);
+  [Psy-Insight](https://github.com/ckqqqq/Psy-Insight).
 - **Unified annotation framework** for:  
   🎯 Counselor strategies · 💬 Client reactions
-- **New explanatory labels** for:  
+- **New interpretation labels** for:  
   🔍 Strategy selection rationale · 🧩 Reaction attribution analysis
 
 ---
 
 ## 🚀 Key Features
-|   | Description |
+| Specificities | Description |
 |---|-------------|
-| 🌐 **Multi-source Foundation** | Synthesizes best features from 3 established datasets |
-| 🧠 **Enhanced Explainability** | First to include *reasoning labels* for strategy/reaction analysis |
+| 🌐 **Multi-source Collection** | Combining the strengths of 3 existing high-quality datasets |
+| 🆕 **Enhanced Interpretations** | First to include *interpretative labels* for strategy/reaction analysis |
 | 🔧 **Consistent Framework** | Unified annotation standards across all samples |
-| 🆕 **Extended Metadata** | Contextual tags + Dialogue quality indicators |
 
 ---
 
 ## 🗃️ Dataset Composition
 | Source Dataset | Samples | Annotation Highlights |
 |----------------|---------|------------------------|
-| `XinLing`      | 2,800   | Client emotion tracking |
-| `CPsyCounD`    | 3,500   | Counselor skill levels |
-| `Psy-Insight`  | 1,200   | Session outcome labels |
+| [XinLing](https://github.com/dll-wu/Client-Reactions)      | 300   | Client reaction tracking |
+| [CPsyCounD](https://github.com/CAS-SIAT-XinHai/CPsyCoun)    | 3,134   | Counselor skill levels |
+| [Psy-Insight](https://github.com/ckqqqq/Psy-Insight)  | 431  | Multi-task labels |
 
-**Total Re-annotated Samples**: 7,500+  
-**New Explanatory Labels**: 15 categories  
+**Total Re-annotated Samples**: 3,500+  
+**New Interpretation Labels**: Help LLMs understand the logic of human counselors' decision-making in strategy selection  
 
 ---
 
@@ -42,12 +43,9 @@ ProPsyC is a novel dataset for psychological counseling research, constructed th
 ❗ *Dataset release schedule*:  
 - Will be publicly available **upon paper publication**  
 - Includes:  
-  📁 Full dataset  
+  📁 Full dataset
   🏷️ Annotation guidelines  
-  🔧 Labeling toolkit  
-
-⭐ *Star this repo for release updates!*  
-📧 *Contact authors for early access requests*
+  🧠 Interpretive labelling CoT   
 
 ---
 
@@ -55,9 +53,7 @@ ProPsyC is a novel dataset for psychological counseling research, constructed th
 Explore ProPsyC sample in:  
 ```json
 ProPsyC_demo.json
+```
+📧 *Contact authors for early access requests*
 
 
-
-https://github.com/dll-wu/Client-Reactions
-https://github.com/CAS-SIAT-XinHai/CPsyCoun
-https://github.com/ckqqqq/Psy-Insight
