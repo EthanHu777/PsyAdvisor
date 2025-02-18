@@ -1,4 +1,4 @@
-# 🧠 Psychological LLMs Collection 🚀
+# ❤️‍🔥 Psychological LLMs Collection 🚀
 
 🌟 We have listed all the baselines covered in the paper, and here are the details of how to access them. 🌈
 
@@ -14,7 +14,7 @@
 ## 🚀 Large-scale General-purpose LLMs
 **Powerful models for broad applications** 💪  
 These models excel in general-purpose tasks and can be adapted for psychological analysis. It can be made to play the role of a counselor through prompts.
-- **[GPT-4o]**() 🌐 *by OpenAI*  
+- **[GPT-4o]()** 🌐 *by OpenAI*  
 - **DeepSeek-V3** 🚄 *by DeepSeek AI*  
 - **GLM-4** 🔥 *by Tsinghua University*  
 
