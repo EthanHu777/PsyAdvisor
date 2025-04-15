@@ -59,4 +59,5 @@ Community Driven: You are welcome to make valuable changes at any time！⭐
 - SoulChat2.0: [https://github.com/scutcyr/SoulChat2.0](https://github.com/scutcyr/SoulChat2.0)
 
 💡**Tips**: We will make the full code publicly available after the paper is accepted~ (A good wish🤩🫡🫣)
+
 If you want to get the code in advance, feel free to contact us [ yuxinhu@seu.edu.cn ].
